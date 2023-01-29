@@ -1,0 +1,52 @@
+name: reserva_movil
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0-271.2.beta <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^3.0.1
+  google_sign_in: ^5.4.2
+  firebase_auth: ^3.8.0
+  auth_buttons: ^3.0.0
+  firebase_core: ^1.22.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6
+  shared_preferences: ^2.0.15
+  get_it: ^7.2.0
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  flutter_easyloading: ^3.0.5
+  uuid: ^3.0.6
+  dartz: ^0.10.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: 'launcher_icon'
+  ios: true
+  image_path: 'assets/gestorImages/logo.png'
+  adaptive_icon_background: 'assets/gestorImages/logo.png'
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/gestorImages/
+

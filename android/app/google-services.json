@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "624661796727",
+    "project_id": "authreserva-a42ba",
+    "storage_bucket": "authreserva-a42ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624661796727:android:575e9ad3fceda2e7cff372",
+        "android_client_info": {
+          "package_name": "com.jarufenix.reserva_movil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624661796727-ot9je7cq7n97tc7et0j597fovib1uku2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jarufenix.reserva_movil",
+            "certificate_hash": "d87dd8f55e3799a6ac58c51a90315babbf26241a"
+          }
+        },
+        {
+          "client_id": "624661796727-1q9l0qfce1pn7c36e3rjpbfdu2gqfims.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqEA5UU0KCsXzthAY8hu3_HyJgO5mdOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624661796727-1q9l0qfce1pn7c36e3rjpbfdu2gqfims.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624661796727-g2h1jr0ns1mdq5d6nmmtik64mj3pcu46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reservaMovil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
